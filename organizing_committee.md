@@ -10,6 +10,8 @@ title: Organizing committee
 - Nicolás Alessandroni  
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
 
+---
+
 ## Extended team / Équipe élargie
 
 - Juan Pablo Alperin  
