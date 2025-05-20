@@ -8,10 +8,10 @@ The 1st Canadian Conference on Open Science and Open Scholarship is a landmark n
 
 ## Important dates
 
-- ***Abstract submission deadline***: June 30, 2025, by the end of the day in your local time zone.
-- ***Notification of decision***: No later than July 30, 2025
-- ***Submission of revised abstract for the conference website***: August 15, 2025
-- ***Conference dates***: October 9–10, 2025
+- **Abstract submission deadline**: June 30, 2025, by the end of the day in your local time zone.
+- **Notification of decision**: No later than July 30, 2025
+- **Submission of revised abstract for the conference website**: August 15, 2025
+- **Conference dates**: October 9–10, 2025
 
 ## Prompts for contributors
 
@@ -38,7 +38,7 @@ The presentation formats are thoughtfully designed to support diverse styles of 
 
 ### How do I submit my proposal? 
 
-We welcome submissions from organizations, researchers, and professionals at all career stages. Whether you are proposing a poster, a booth, or a lightning talk, please submit an abstract of up to 250 words through our online form and indicate your preferred presentation format(s). Your abstract should include a clear, concise title, be fully self-contained, and not include bibliographic references. All submissions will be reviewed by the organizing committee, and decisions will be communicated no later than July 30. 
+We welcome submissions from organizations, researchers, and professionals at all career stages. Whether you are proposing a poster, a booth, or a lightning talk, please submit an abstract of **up to 250 words** through our online form and indicate your preferred presentation format(s). Your abstract should include a clear, concise title, be fully self-contained, and not include bibliographic references. All submissions will be reviewed by the organizing committee, and decisions will be communicated no later than July 30. 
 
 **Click here to access the submission form** 
 
@@ -48,3 +48,45 @@ If you are a student, trainee, or early career researcher interested in presenti
 
 ---
 
+La 1ère Conférence canadienne sur la science ouverte et les savoirs ouverts est une rencontre nationale qui vise à encourager l’adoption des pratiques de science ouverte visant à rendre la recherche plus accessible, transparente et collaborative. Organisée par l’Université Concordia et des institutions partenaires, la conférence arrive à un moment clé, alors que le Canada renforce son engagement envers la science ouverte avec de nouvelles politiques, plateformes et services.
+L’événement se tiendra à Montréal les 9 et 10 octobre 2025, et réunira entre 150 et 200 participant.e.s provenant des milieux gouvernementaux, universitaires et des organisations de recherche, afin de réfléchir à des lignes directrices et tisser des partenariats qui transformeront la manière dont la recherche est menée et partagée au Canada. Les participant.e.s se concentreront sur des actions concrètes : dresser un état des lieux de la science ouverte au Canada, élaborer des stratégies pratiques de mise en œuvre et tracer les grandes orientations à venir.
+Le programme comprendra des conférences principales, des présentations invitées, des tables rondes, des groupes de travail, ainsi que de nombreuses occasions de réseautage — et vous pourrez aussi présenter vos travaux. Rejoignez-nous comme intervenant.e ! Nous accueillons les propositions de posters, kiosques et présentations éclair mettant en valeur vos initiatives en matière de science ouverte.
+
+## Dates importantes
+
+- **Date limite de soumission des résumés** : 30 juin 2025
+- **Notification des décisions** : au plus tard le 30 juillet 2025
+- **Soumission des résumés révisés pour le site web de la conférence** : 15 août 2025
+- **Dates de la conférence** : 9–10 octobre 2025
+
+## Questions pour orienter votre proposition
+- Vous faites partie d’un **établissement de recherche** qui fait progresser les pratiques de science ouverte ? Présentez vos programmes et projets novateurs !
+- Vous êtes **étudiant(e)** et avez commencé à intégrer la science ouverte dans vos recherches ? Partagez votre expérience : ce qui vous a inspiré, les défis rencontrés, vos réussites et les leçons apprises !
+- Vous **développez un outil, une plateforme ou une ressource ouverte** ? Faites connaître votre travail et engagez la communauté !
+- Vous **travaillez dans l’édition** et faites la promotion de la science ouverte ? Présentez vos efforts et élargissez votre réseau !
+- Vous **gérez un programme de financement** pour la science ouverte ? Faites-le connaître et aidez les chercheurs à découvrir de nouvelles opportunités !
+- Vous êtes **administrateur.trice universitaire** et mettez en œuvre des politiques de science ouverte ? Présentez vos initiatives et engagez le dialogue !
+- Vous travaillez dans une **organisation à but non lucratif** qui milite pour la science ouverte ? Faites entendre votre mission et invitez à la collaboration !
+- Vous êtes **artiste ou créateur.trice** et incarnez les principes de la science ouverte ? Montrez comment votre travail s’inscrit dans ce mouvement !
+
+## Appel à communications : affiches, kiosques et présentations éclair
+
+La conférence propose trois formats dynamiques pour présenter votre travail, favoriser les échanges et élargir votre réseau: des *affiches*, des *kiosques* et des *exposés éclair*. Cette conférence valorise la diversité des voix et des innovations issues de la communauté. Les présentations en anglais ou en français sont les bienvenues. Nous encourageons fortement les soumissions de toutes origines, à tous les stades de carrière, et de toutes les institutions.
+
+### Quel format choisir ?
+
+Les formats de présentation sont conçus pour s’adapter à divers styles de communication et offrir une expérience inclusive et flexible :
+
+- **Affiches** (Jour 1, 9 octobre) : idéales pour présenter visuellement des recherches, projets ou programmes. Favorisent des échanges ciblés dans un cadre détendu.
+- **Kiosques** (Jour 1, 9 octobre) : parfaits pour des démonstrations en direct, des conversations individuelles et la présentation de matériel. Offrent une expérience interactive.
+- **Présentations éclair** (Jours 1 et 2, 9–10 octobre) : concises et dynamiques (5 minutes + 2 minutes de questions), elles permettent de partager des idées clés, des solutions pratiques et d’alimenter les discussions.
+
+### Comment soumettre une proposition ?
+
+Nous encourageons les organisations, chercheurs et professionnels à tous les stades de carrière à soumettre une proposition. Pour une affiche, un kiosque ou une présentation éclair, soumettez un résumé **d’un maximum de 250 mots** via notre formulaire de soumission et indiquez le ou les formats souhaités. Le résumé doit inclure un titre clair, être autonome et sans références bibliographiques. Toutes les propositions seront évaluées, et les décisions seront communiquées au plus tard le 15 juillet. Saisissez cette occasion de faire rayonner votre travail et de contribuer à l’exposition interactive !
+
+**Cliquez ici pour accéder au formulaire de soumission**
+
+## Bourses de déplacement pour les étudiant(e)s et les chercheur(e)s en début de carrière
+
+Si vous êtes étudiant.e ou chercheur.se en début de carrière et que vous souhaitez présenter à la conférence, vous pourriez être admissible à un soutien financier. Nous prévoyons d’offrir au moins cinq bourses de 500 $ chacune pour aider à couvrir les frais de déplacement. Pour être considéré.e, il suffit d’indiquer votre besoin dans le formulaire de soumission.
