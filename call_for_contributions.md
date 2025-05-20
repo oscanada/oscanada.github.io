@@ -40,7 +40,7 @@ The presentation formats are thoughtfully designed to support diverse styles of 
 
 We welcome submissions from organizations, researchers, and professionals at all career stages. Whether you are proposing a poster, a booth, or a lightning talk, please submit an abstract of up to 250 words through our online form and indicate your preferred presentation format(s). Your abstract should include a clear, concise title, be fully self-contained, and not include bibliographic references. All submissions will be reviewed by the organizing committee, and decisions will be communicated no later than July 30. 
 
-**Click here to access the submittion form** 
+**Click here to access the submission form** 
 
 ## Student, trainee, and early career researcher travel grants
 
