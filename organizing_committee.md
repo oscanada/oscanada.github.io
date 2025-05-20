@@ -3,14 +3,14 @@ layout: page
 title: Organizing committee
 ---
 
-## Lead organizers
+## Lead organizers / Équipe de coordination
 
 - Krista Byers-Heinlein  
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
 - Nicolás Alessandroni  
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
 
-## Extended team (listed alphabetically)
+## Extended team (listed alphabetically) / Équipe élargie (par ordre alphabétique)
 
 - Juan Pablo Alperin  
   <span style="font-size: 0.9em; color: #98243c;"><i>Simon Fraser University</i></span>  
