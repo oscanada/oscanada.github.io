@@ -19,7 +19,9 @@ title: Organizing committee
 - Ottilia Berze  
   <span style="font-size: 0.9em; color: #98243c;"><i>University of Calgary</i></span>  
 - Suzanne Beth  
-  <span style="font-size: 0.9em; color: #98243c;"><i>Érudit</i></span>  
+  <span style="font-size: 0.9em; color: #98243c;"><i>Érudit</i></span> 
+- Alexandre Bourque-Viens  
+  <span style="font-size: 0.9em; color: #98243c;"><i>Office of the Chief Science Advisor of Canada</i></span> 
 - Amy Buckland  
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
 - Joshua Chalifour  
