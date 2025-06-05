@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: 1st Canadian Conference on Open Science and Open Scholarship
+title: 1st Canadian Conference on Open Science<br>and Open Scholarship
 
 # Your name to show in the footer
-author: Nicolas Alessandroni & Krista Byers-Heinlein
+author:
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,6 +23,7 @@ navbar-links:
   Organizing committee: "organizing_committee"
   Call for contributions: "call_for_contributions"
   Submission form: "submission_form"
+  Venue: "https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html"
   Contact us: "mailto:open.scholarship@concordia.ca" 
 
 ################
@@ -31,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/osconference_logo.png"
+avatar: "/assets/img/osconference_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
