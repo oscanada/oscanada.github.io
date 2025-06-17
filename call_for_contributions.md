@@ -44,7 +44,7 @@ The presentation formats are thoughtfully designed to support diverse styles of 
 
 We welcome submissions from organizations, researchers, and professionals at all career stages. Whether you are proposing a poster, a booth, or a lightning talk, please submit an abstract of **up to 250 words** through our online form and indicate your preferred presentation format(s). Your abstract should include a clear, concise title, be fully self-contained, and not include bibliographic references. All submissions will be reviewed by the organizing committee, and decisions will be communicated no later than July 30. 
 
-[**Click here to access the submission form**](https://oscanada.github.io/submission_form)
+#### [**Click here to access the submission form**](https://oscanada.github.io/submission_form)
 
 --- 
 
@@ -100,7 +100,7 @@ Les formats de présentation sont conçus pour s’adapter à divers styles de c
 
 Nous encourageons les organisations, chercheurs et professionnels à tous les stades de carrière à soumettre une proposition. Pour une affiche, un kiosque ou une présentation éclair, soumettez un résumé **d’un maximum de 250 mots** via notre formulaire de soumission et indiquez le ou les formats souhaités. Le résumé doit inclure un titre clair, être autonome et sans références bibliographiques. Toutes les propositions seront évaluées, et les décisions seront communiquées au plus tard le 15 juillet. Saisissez cette occasion de faire rayonner votre travail et de contribuer à l’exposition interactive !
 
-[**Cliquez ici pour accéder au formulaire de soumission**](https://oscanada.github.io/submission_form)
+#### [**Cliquez ici pour accéder au formulaire de soumission**](https://oscanada.github.io/submission_form)
 
 ---
 
