@@ -37,7 +37,7 @@ The conference offers three dynamic formats to showcase your work, spark connect
 The presentation formats are thoughtfully designed to support diverse styles of engagement, ensuring an inclusive and flexible experience for all participants.
 
 - **Posters** (Day 1, October 9) offer an ideal format for visually presenting your research, projects, or programs. They create a relaxed setting for meaningful, one-on-one conversations, encouraging focused discussions and the exchange of ideas and insights.
-- **Booths** (Day 1, October 9) are ideal for live demonstrations, interactive displays, and one-on-one conversations. They provide an engaging space to showcase tools, resources, or initiatives while offering hands-on experiences.
+- **Booths** (Day 1, October 9) are ideal for live demonstrations, interactive displays, and one-on-one conversations. They provide an engaging space to showcase tools, resources, or initiatives while offering hands-on experiences. Presenters will have access to rectangular tables and chairs, and power outlets can be arranged on request; poster boards and wooden easels are also available. Presenters are welcome to bring additional materials such as signage, handouts, or stickers, and we will work with each team to accommodate specific needs. The session will run for two hours, and although presenters are not required to remain for the full duration, having someone present at key moments is encouraged.
 - **Lightning talks** (Days 1 and 2, October 9–10) offer a fast-paced format for sharing key insights, innovative ideas, and practical solutions. These 5-minute presentations, followed by 2 minutes of Q&A, provide a lively platform to spark discussion and spotlight the most compelling aspects of your work in a dynamic and engaging way.
 
 ### How do I submit my proposal? 
@@ -93,7 +93,7 @@ La conférence propose trois formats dynamiques pour présenter votre travail, f
 Les formats de présentation sont conçus pour s’adapter à divers styles de communication et offrir une expérience inclusive et flexible :
 
 - **Affiches** (Jour 1, 9 octobre) : idéales pour présenter visuellement des recherches, projets ou programmes. Favorisent des échanges ciblés dans un cadre détendu.
-- **Kiosques** (Jour 1, 9 octobre) : parfaits pour des démonstrations en direct, des conversations individuelles et la présentation de matériel. Offrent une expérience interactive.
+- **Kiosques** (Jour 1, 9 octobre) : parfaits pour des démonstrations en direct, des conversations individuelles et la présentation de matériel. Offrent une expérience interactive. Les personnes présentatrices auront accès à des tables rectangulaires et des chaises ; des prises électriques pourront être fournies sur demande. Des panneaux d’affichage et des chevalets en bois seront également disponibles. Les personnes présentatrices sont invitées à apporter tout matériel supplémentaire qu’elles jugeront utile (par exemple : signalisation, documents imprimés ou autocollants). Nous travaillerons avec chaque équipe pour répondre, dans la mesure du possible, à ses besoins spécifiques. La séance durera deux heures et, même si une présence continue n’est pas obligatoire, nous encourageons la présence d’au moins une personne à certains moments clés afin d’échanger avec le public.
 - **Présentations éclair** (Jours 1 et 2, 9–10 octobre) : concises et dynamiques (5 minutes + 2 minutes de questions), elles permettent de partager des idées clés, des solutions pratiques et d’alimenter les discussions.
 
 ### Comment soumettre une proposition ?
