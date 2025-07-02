@@ -1,29 +1,10 @@
 ---
-layout: none
-permalink: /404
+layout: default
+title: 404 - Page not found
+permalink: /404.html
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>Redirecting...</title>
-    <script>
-        const supportedLangs = {{ site.languages | jsonify }};
-        const fallbackLang = 'en';
-
-        const path = window.location.pathname;
-        const lang = path.split('/')[1];
-        const redirectLang = supportedLangs.includes(lang) ? lang : fallbackLang;
-        const redirectPath = `/${redirectLang}/404.html`;
-
-        window.location.replace(redirectPath);
-    </script>
-</head>
-
-<body>
-    <p>Redirecting to the localized 404 page…</p>
-</body>
-
-</html>
+<div class="text-center">
+  <h1>Website under construction.</h1>
+  <h1>More information available soon!</h1>
+</div>
