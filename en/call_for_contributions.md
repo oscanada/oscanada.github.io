@@ -9,9 +9,9 @@ The **1st Canadian Conference on Open Science and Open Scholarship** is a landma
 
 ## Important dates
 
-- **Abstract submission deadline**: June 30, 2025, by the end of the day in your local time zone.
-- **Notification of decision**: No later than July 30, 2025
-- **Submission of revised abstract for the conference website**: August 15, 2025
+- **Abstract submission deadline**: July 15, 2025, by the end of the day in your local time zone.
+- **Notification of decision**: No later than August 15, 2025
+- **Submission of revised abstract for the conference website**: August 30, 2025
 - **Conference dates**: October 9–10, 2025
 
 ---
