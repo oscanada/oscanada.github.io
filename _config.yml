@@ -10,20 +10,37 @@
 ############################
 
 # Name of website
-title: 1st Canadian Conference on Open Science<br>and Open Scholarship
+title: 
+  en: 1st Canadian Conference on Open Science and Open Scholarship
+  fr: 1ère Conférence canadienne sur la science ouverte et les savoirs ouverts
+
+# Language settings
+languages: ['en', 'fr']
+default_language: 'en'
+
+# collections_dir: content
+collections:
+  posts_en:
+    output: true
+    permalink: /en/:slug/
+  posts_fr:
+    output: true
+    permalink: /fr/:slug/
+
+defaults:
+  - scope:
+      path: "en"
+    values:
+      lang: en
+      layout: default
+  - scope:
+      path: "fr"
+    values:
+      lang: fr
+      layout: default
 
 # Your name to show in the footer
 author:
-
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-
-navbar-links:
-  Organizing committee: "organizing_committee"
-  Call for contributions: "call_for_contributions"
-  Venue: "https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html"
-  Contact us: "mailto:open.scholarship@concordia.ca" 
 
 ################
 # --- Logo --- #
@@ -281,11 +298,12 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-target-blank
+  # - jekyll-target-blank
 
 
 # Beautiful Jekyll / Dean Attali

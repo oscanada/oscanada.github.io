@@ -147,6 +147,14 @@ img {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
   font-size: 1.125rem;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+@media (min-width: 1199px) {
+  .navbar-custom .navbar-brand {
+    width: 33%;
+  }
 }
 
 .navbar-custom .navbar-brand-logo {
