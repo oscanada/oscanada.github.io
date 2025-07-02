@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Organizing committee
-lang: en
-permalink: /en/organizing-committee/
-slug: organizing-committee
 ---
 
-## Lead organizers
+## Lead organizers / Équipe de coordination
 
 - Krista Byers-Heinlein  
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
@@ -15,7 +12,7 @@ slug: organizing-committee
 
 ---
 
-## Extended team
+## Extended team / Équipe élargie
 
 - Juan Pablo Alperin  
   <span style="font-size: 0.9em; color: #98243c;"><i>Simon Fraser University</i></span>  
