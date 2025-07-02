@@ -1,0 +1,27 @@
+{% assign current_slug = page.slug %}
+{% assign current_lang = page.lang %}
+{% assign translations = site.pages | where: "slug", current_slug %}
+
+{% assign other_translations = translations | where_exp: "item", "item.lang != current_lang" %}
+{% assign other_count = other_translations | size %}
+
+{% if other_count == 0 %}
+<!-- No other translations: hide toggle -->
+<li class="nav-item disabled">
+    <a href="{{ target.url }}" class="nav-link">
+        {{ current_lang | upcase }}
+    </a>
+</li>
+
+{% elsif other_count == 1 %}
+<!-- Exactly one other translation: show simple toggle -->
+{% assign target = other_translations | first %}
+<li class="nav-item">
+    <a href="{{ target.url }}" class="nav-link">
+        {{ target.lang | upcase }}
+    </a>
+</li>
+
+{% else %}
+<!-- TODO Two or more other translations: show dropdown -->
+{% endif %}
