@@ -1,0 +1,36 @@
+---
+layout: none
+permalink: /call_for_contributions
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        const supportedLangs = {{ site.languages | jsonify }};
+        const fallbackLang = 'en';
+
+
+        const browserLang = navigator.language || navigator.userLanguage;
+        const langPrefix = browserLang.split('-')[0];
+
+        const redirectLang = supportedLangs.includes(langPrefix) ? langPrefix : defaultLang;
+
+        const translatedPaths = {
+            'en': '/en/call-for-contributions',
+            'fr': '/fr/appel-aux-contributions'
+        };
+
+        const target = translatedPaths[redirectLang] || translatedPaths[fallbackLang];
+        window.location.replace(target);
+    </script>
+</head>
+
+<body>
+    <p>Redirecting to the localized 404 page…</p>
+</body>
+
+</html>
