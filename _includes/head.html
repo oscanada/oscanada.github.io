@@ -8,7 +8,7 @@
     {%- elsif page.title -%}
       {{ page.title | strip_html | xml_escape  }}
     {%- else -%}
-      {{ site.title | strip_html | xml_escape }}
+      {{ site.title[page.lang] | strip_html | xml_escape }}
     {%- endif -%}
   {% endcapture %}
 
@@ -40,7 +40,7 @@
   {% endif %}
 
   {% if site.rss-description %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
 
   {% include gtag.html %}
@@ -83,7 +83,7 @@
   {% endif %}
 
   {% if site.title %}
-  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:site_name" content="{{ site.title[page.lang] }}">
   {% endif %}
 
   {%- capture img -%}
