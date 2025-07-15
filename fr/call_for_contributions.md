@@ -11,7 +11,7 @@ Le programme comprendra des conférences principales, des présentations invité
 
 ## Dates importantes
 
-- **Date limite de soumission des résumés** : 15 juillet 2025
+- **Date limite de soumission des résumés** : 15 juillet 2025, d'ici la fin de la journée dans votre fuseau horaire local.
 - **Notification des décisions** : au plus tard le 15 aôut 2025
 - **Soumission des résumés révisés pour le site web de la conférence** : 30 août 2025
 - **Dates de la conférence** : 9–10 octobre 2025
