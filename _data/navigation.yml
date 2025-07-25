@@ -4,6 +4,8 @@ en:
     url: /en/organizing-committee
   - title: Call for contributions
     url: /en/call-for-contributions
+  - title: Hotel Discounts
+    url: /en/hotels
   - title: Venue
     url: https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html
   - title: Contact us
@@ -15,16 +17,8 @@ fr:
     url: /fr/comite-organisation
   - title: Appel aux contributions
     url: /fr/appel-aux-contributions
-  - title: Emplacement
-    url: https://www.concordia.ca/fr/hospitalite/salles/centre-de-conference.html
-  - title: Contactez nous
-    url: mailto:open.scholarship@concordia.ca
-
-test-lang:
-  - title: Comité d'organisation
-    url: /test-lang/comite-organisation
-  - title: Appel aux contributions
-    url: /test-lang/appel-aux-contributions
+  - title: Tarifs Hôteliers
+    url: /fr/hotels
   - title: Emplacement
     url: https://www.concordia.ca/fr/hospitalite/salles/centre-de-conference.html
   - title: Contactez nous
