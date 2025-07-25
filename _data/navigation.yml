@@ -2,6 +2,8 @@
 en:
   - title: Organizing committee
     url: /en/organizing-committee
+  - title: Call for contributions
+    url: /en/call-for-contributions
   - title: Hotel Discounts
     url: /en/hotels
   - title: Venue
@@ -13,6 +15,8 @@ en:
 fr:
   - title: Comité d'organisation
     url: /fr/comite-organisation
+  - title: Appel aux contributions
+    url: /fr/appel-aux-contributions
   - title: Tarifs Hôteliers
     url: /fr/hotels
   - title: Emplacement
