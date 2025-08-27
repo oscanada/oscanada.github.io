@@ -14,7 +14,7 @@ Nous avons établi des partenariats avec plusieurs hôtels situés à proximité
 
 **Adresse** : [1180 Rue de la Montagne, Montréal, Québec H3G 1Z1, Canada](https://maps.app.goo.gl/aG5UW4ULqqUQkB2x8) \
 **Distance du lieu de la conférence** : 10 minutes à pied \
-**Date limite de réservation** : 27 août 2025
+**Date limite de réservation** : 12 septembre 2025
 
 ## Tarifs des chambres (CAD/nuit)
 

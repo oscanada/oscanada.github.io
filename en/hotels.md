@@ -13,7 +13,7 @@ We’ve partnered with several nearby hotels to offer discounted rates for regis
 
 **Address**: [1180 Rue de la Montagne, Montreal, Quebec H3G 1Z1, Canada](https://maps.app.goo.gl/aG5UW4ULqqUQkB2x8) \
 **Distance to Venue**: 10 minute walk \
-**Booking deadline**: August 27 2025
+**Booking deadline**: September 12 2025
 
 ## Room Rates (CAD/night)
 
