@@ -59,6 +59,8 @@ slug: organizing-committee
   <span style="font-size: 0.9em; color: #98243c;"><i>Concordia University</i></span>  
 - Luisa Pimentel  
   <span style="font-size: 0.9em; color: #98243c;"><i>Tanenbaum Open Science Institute (TOSI), The Neuro, McGill University</i></span>  
+- Marie Poirot  
+  <span style="font-size: 0.9em; color: #98243c;"><i>Tanenbaum Open Science Institute (TOSI), The Neuro, McGill University</i></span> 
 - Christine Rogers  
   <span style="font-size: 0.9em; color: #98243c;"><i>The Neuro, McGill University</i></span>  
 - Andrea Sander-Montant  
