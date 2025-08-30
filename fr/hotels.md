@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tarifs Hôteliers
+title: Hôtels
 lang: fr
 permalink: /fr/hotels/
 slug: hotels
