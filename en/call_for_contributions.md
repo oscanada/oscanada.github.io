@@ -8,7 +8,7 @@ slug: call-for-contributions
 
 <div style="background-color:#fff3cd; border:1px solid #ffeeba; padding:15px; border-radius:6px; margin:20px 0; color:#856404;">
   📢 <strong>Submission of proposals is now closed.</strong><br>
-  Please consult the conference program</a>.
+  Please consult the conference program. Thank you!
 </div>
 
 The **1st Canadian Conference on Open Science and Open Scholarship** is a landmark national event dedicated to accelerating the adoption of open science practices across the country, making research more accessible, transparent, and collaborative. Hosted by Concordia University and partner institutions, the conference arrives at a pivotal moment, as Canada strengthens its commitment to open science through new mandates, platforms, and services. Taking place in Montreal on October 9-10, 2025, the event will convene 150–200 participants from government, academia, and research organizations. Together, they will develop practical guidelines and forge partnerships to transform the way research is conducted and shared nationwide. Participants will engage in hands-on work to map the current open-science landscape in Canada, and outline future directions. The program will include keynote and invited talks, panel discussions, working groups, and ample opportunities for networking and for participants to share their work. Join us as a speaker! We welcome submissions for posters, booths, and lightning talks that showcase your work in advancing open science. 
