@@ -6,6 +6,7 @@ lang: en
 permlink: /en/
 slug: home
 ---
+
 <style>
   .callout {
     display: flex; gap: 12px; align-items: flex-start;
@@ -17,6 +18,97 @@ slug: home
   .callout__title { margin: 0 0 6px; font-weight: 600; color: #98243c; }
   .callout__body { margin: 0; }
 </style>
+
+<style>
+  :root { --accent: #98243c; --offset: 80px; } /* adjust offset to match the main navbar height */
+
+  .section-anchor {
+    scroll-margin-top: var(--offset);
+    position: relative;
+    height: 0;
+    visibility: hidden;
+  }
+
+  .subnav {
+    position: fixed;
+    top: calc(var(--offset) + 12px);
+    left: 18px;
+    z-index: 1030;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 12px;
+    box-shadow: 0 6px 24px rgba(0,0,0,.08);
+    padding: 10px;
+    max-width: 260px;
+    font-size: .9rem;
+  }
+  .subnav h6 {
+    margin: 0 0 8px;
+    font-size: .8rem;
+    letter-spacing: .02em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }
+  .subnav a {
+    display: block;
+    padding: 6px 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #333;
+  }
+  .subnav a:hover { background:#f6f6f6; }
+  .subnav a.is-active {
+    background: #f8e8ec;
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  /* Mobile */
+  @media (max-width: 900px) {
+    .subnav {
+      left: 12px; right: 12px; bottom: 12px; top: auto;
+      display: flex; gap: 8px; padding: 8px; overflow-x: auto;
+    }
+    .subnav h6 { display: none; }
+    .subnav a { white-space: nowrap; padding: 6px 10px; border:1px solid #eee; }
+  }
+</style>
+
+<nav class="subnav" aria-label="On this page">
+  <h6>On this page</h6>
+  <a href="#overview">Overview</a>
+  <a href="#announcements">Announcements</a>
+  <a href="#hosts">Host & supporting organizations</a>
+</nav>
+
+<script>
+  document.querySelectorAll('.subnav a').forEach(a => {
+    a.addEventListener('click', e => {
+      e.preventDefault();
+      const id = a.getAttribute('href').slice(1);
+      const el = document.getElementById(id);
+      if (!el) return;
+      const y = el.getBoundingClientRect().top + window.pageYOffset - parseInt(getComputedStyle(document.documentElement).getPropertyValue('--offset'));
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    });
+  });
+
+  const links = [...document.querySelectorAll('.subnav a')];
+  const map = Object.fromEntries(links.map(l => [l.getAttribute('href').slice(1), l]));
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        links.forEach(l => l.classList.remove('is-active'));
+        const id = e.target.id;
+        if (map[id]) map[id].classList.add('is-active');
+      }
+    });
+  }, { rootMargin: `-${getComputedStyle(document.documentElement).getPropertyValue('--offset')} 0px -60% 0px`, threshold: 0 });
+
+  document.querySelectorAll('.section-anchor').forEach(el => obs.observe(el));
+</script>
+
+
 
 <p style="text-align:center"><img alt=""
     src="https://github.com/oscanada/oscanada.github.io/blob/main/assets/img/osconference_banner.png?raw=true"
@@ -30,6 +122,7 @@ slug: home
   <strong>"Mapping the Present, Charting our Future"</strong>
 </p>
 
+<div id="overview" class="section-anchor"></div>
 <p style="text-align:left">The <b>1st Canadian Conference on Open Science and Open Scholarship</b> is a
   landmark national event dedicated to accelerating the adoption of open science practices across the country, making
   research more accessible, transparent, and collaborative. Hosted by Concordia University and partner institutions, the
@@ -38,6 +131,7 @@ slug: home
   from government, academia, and research organizations. Together, they will develop practical guidelines and forge
   partnerships to transform the way research is conducted and shared nationwide.</p>
 
+<div id="announcements" class="section-anchor"></div>
 <p style="text-align:left">You can now check the preliminary <a href="/en/program" target="_blank"><strong>conference program</strong></a>! More information about the conference—including the <i>pre-conference online event</i>, <i>conference keynote speakers</i>, <i>full conference program</i>, and <i>general registration details</i>—will be released soon. Be sure to check back for updates and opportunities to get involved.</p>
 
 <div class="callout">
@@ -63,6 +157,7 @@ slug: home
 
 <br>
 
+<div id="hosts" class="section-anchor"></div>
 <p style="text-align:left"><strong>Hosted by:</strong></p>
 
 <div style="height: 10px;"></div>
