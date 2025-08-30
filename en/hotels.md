@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hotel Discounts
+title: Hotels
 lang: en
 permalink: /en/hotels/
 slug: hotels
 ---
 
-We’ve partnered with several nearby hotels to offer discounted rates for registered conference attendees. Below you’ll find details on each hotel, including pricing, booking deadlines, and reservation information. We recommend booking early, as availability is limited.
+We have partnered with several nearby hotels to offer discounted rates for registered conference attendees. Below you will find details on each hotel, including pricing, booking deadlines, and reservation information. We recommend booking early, as availability is limited.
 
 ---
 # Novotel
