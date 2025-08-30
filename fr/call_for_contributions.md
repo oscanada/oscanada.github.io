@@ -5,6 +5,12 @@ lang : fr
 permalink: /fr/appel-aux-contributions
 slug: call-for-contributions
 ---
+
+<div style="background-color:#fff3cd; border:1px solid #ffeeba; padding:15px; border-radius:6px; margin:20px 0; color:#856404;">
+  📢 <strong>L’appel à contributions est maintenant fermé.</strong><br>
+  Veuillez consulter le programme de la conférence</a>.
+</div>
+
 La **1ère Conférence canadienne sur la science ouverte et les savoirs ouverts** est une rencontre nationale qui vise à encourager l’adoption des pratiques de science ouverte visant à rendre la recherche plus accessible, transparente et collaborative. Organisée par l’Université Concordia et des institutions partenaires, la conférence arrive à un moment clé, alors que le Canada renforce son engagement envers la science ouverte avec de nouvelles politiques, plateformes et services.
 L’événement se tiendra à Montréal les 9 et 10 octobre 2025, et réunira entre 150 et 200 participant.e.s provenant des milieux gouvernementaux, universitaires et des organisations de recherche, afin de réfléchir à des lignes directrices et tisser des partenariats qui transformeront la manière dont la recherche est menée et partagée au Canada. Les participant.e.s se concentreront sur des actions concrètes : dresser un état des lieux de la science ouverte au Canada, élaborer des stratégies pratiques de mise en œuvre et tracer les grandes orientations à venir.
 Le programme comprendra des conférences principales, des présentations invitées, des tables rondes, des groupes de travail, ainsi que de nombreuses occasions de réseautage — et vous pourrez aussi présenter vos travaux. Rejoignez-nous comme intervenant.e ! Nous accueillons les propositions de posters, kiosques et présentations éclair mettant en valeur vos initiatives en matière de science ouverte.
