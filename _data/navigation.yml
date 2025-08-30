@@ -2,9 +2,11 @@
 en:
   - title: Organizing committee
     url: /en/organizing-committee
-  - title: Call for contributions
+  - title: Contribute
     url: /en/call-for-contributions
-  - title: Hotel Discounts
+  - title: Program
+    url: /en/program
+  - title: Hotels 
     url: /en/hotels
   - title: Venue
     url: https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html
@@ -15,9 +17,11 @@ en:
 fr:
   - title: Comité d'organisation
     url: /fr/comite-organisation
-  - title: Appel aux contributions
+  - title: Contribuer
     url: /fr/appel-aux-contributions
-  - title: Tarifs Hôteliers
+  - title: Programme
+    url: /fr/programme
+  - title: Hôtels
     url: /fr/hotels
   - title: Emplacement
     url: https://www.concordia.ca/fr/hospitalite/salles/centre-de-conference.html

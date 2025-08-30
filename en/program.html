@@ -1,0 +1,211 @@
+---
+layout: page
+title: Conference Program
+cover-img: 
+---
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Event Program – October 9–10</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #98243c;
+      --text: #232323;
+      --muted: #666;
+      --line: #e7e7e7;
+      --bg: #fff;
+      --row: #fafafa;
+    }
+
+    .schedule {
+      font-family: Helvetica, Arial, sans-serif;
+      margin: 0 auto;
+      max-width: 1100px;
+    }
+
+    .schedule h5 {
+      font-family: Roboto, system-ui, -apple-system, Segoe UI, Arial, sans-serif;
+      color: var(--accent);
+      margin: 2.25rem 0 1rem;
+      font-size: 1.75rem;
+      line-height: 1.2;
+    }
+
+    table.schedule-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--bg);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    table.schedule-table tbody tr:nth-child(even) {
+      background: var(--row);
+    }
+
+    table.schedule-table td, table.schedule-table th {
+      padding: 14px 16px;
+      vertical-align: top;
+      border-bottom: 1px solid var(--line);
+      font-weight: normal;
+    }
+
+    table.schedule-table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    .time-cell {
+      width: 200px;
+      color: #3a3a3a;
+      letter-spacing: .2px;
+      white-space: nowrap;
+      position: relative;
+    }
+
+    @media (min-width: 900px) {
+      .time-cell {
+        position: sticky;
+        left: 0;
+        background: inherit;
+        box-shadow: 1px 0 0 var(--line);
+        z-index: 1;
+      }
+    }
+
+    .content-cell {
+      padding-bottom: 18px;
+    }
+
+    .social,
+    .session-title {
+      color: var(--text);
+      font-size: 1.02rem;
+    }
+
+    .pill {
+      display: inline-block;
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--accent);
+      background: color-mix(in oklab, var(--accent) 12%, white);
+      border: 1px solid var(--accent);
+      padding: .15rem .5rem;
+      border-radius: 999px;
+      margin-top: .35rem;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    @media (hover: hover) {
+      table.schedule-table tbody tr:hover { background: #f4f4f4; }
+    }
+
+    @media (max-width: 640px) {
+      .time-cell { width: 38%; }
+      .social, .session-title { font-size: 1rem; }
+    }
+
+    @media print {
+      .schedule h5 { color: black; }
+      a { text-decoration: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="schedule">
+    <h5>Day 1 – October 9</h5>
+
+    <table class="schedule-table">
+      <tbody>
+        <tr>
+          <td class="time-cell">08:30 – 09:00</td>
+          <td class="content-cell"><span class="social">☕ Coffee and registration</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">09:00 – 09:30</td>
+          <td class="content-cell"><span class="social">🎤 Opening remarks</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">09:30 – 11:00</td>
+          <td class="content-cell"><span class="social">🌟 Opening keynote presentations</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">11:00 – 13:00</td>
+          <td class="content-cell"><span class="social">☕ Coffee break & 📊 Booths & posters</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">13:00 – 14:00</td>
+          <td class="content-cell"><span class="social">🥗 Lunch + live music</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">14:00 – 15:00</td>
+          <td class="content-cell">
+            <span class="social">⚡ Lightning talks</span><br>
+            <span class="pill">Parallel sessions</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="time-cell">15:00 – 16:30</td>
+          <td class="content-cell">
+            <div class="session-title">💡 Panel: Open access, open data and research data management</div>
+            <div class="session-title">💡 Panel: Innovations in fostering open science within and across institutions</div>
+            <span class="pill">Parallel sessions</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="time-cell">18:00 onwards</td>
+          <td class="content-cell"><span class="social">🥂 Conference reception dinner</span></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h5>Day 2 – October 10</h5>
+
+    <table class="schedule-table">
+      <tbody>
+        <tr>
+          <td class="time-cell">08:30 – 09:00</td>
+          <td class="content-cell"><span class="social">☕ Coffee and registration</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">09:00 – 10:30</td>
+          <td class="content-cell"><span class="session-title">👥 Panel: Supporting OS: Current policy developments in open science at the Tri-Agency and FRQ</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">10:30 – 11:00</td>
+          <td class="content-cell"><span class="social">☕ Coffee break</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">11:00 – 12:00</td>
+          <td class="content-cell">
+            <span class="social">⚡ Lightning talks</span><br>
+            <span class="pill">Parallel sessions</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="time-cell">12:00 – 13:00</td>
+          <td class="content-cell"><span class="social">🥗 Lunch + live music</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">13:00 – 14:30</td>
+          <td class="content-cell"><span class="social">👨‍💻👩‍💻 Working groups + ☕ Coffee</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">14:30 – 16:00</td>
+          <td class="content-cell"><span class="session-title">👥 Panel: Rethinking what counts: Inclusive approaches to scholarly impact</span></td>
+        </tr>
+        <tr>
+          <td class="time-cell">16:00 – 17:00</td>
+          <td class="content-cell"><span class="social">🎤 Closing remarks</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+</body>
+</html>
