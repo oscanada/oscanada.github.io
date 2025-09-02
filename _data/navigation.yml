@@ -12,12 +12,12 @@ en:
     url: /en/hotels
   - title: Venue
     url: https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html
-  - title: Contact us
+  - title: Contact
     url: mailto:open.scholarship@concordia.ca
 
 # L'ordre des titres est important pour assurer la traduction correcte de la barre de navigation.
 fr:
-  - title: Comité d'organisation
+  - title: Comité organisateur
     url: /fr/comite-organisation
   - title: Contribuer
     url: /fr/appel-aux-contributions
@@ -29,5 +29,5 @@ fr:
     url: /fr/hotels
   - title: Emplacement
     url: https://www.concordia.ca/fr/hospitalite/salles/centre-de-conference.html
-  - title: Contactez nous
+  - title: Contact
     url: mailto:open.scholarship@concordia.ca
