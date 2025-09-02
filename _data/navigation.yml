@@ -1,14 +1,12 @@
 # Order matters to ensure correct translation of the navigation bar.
-#   - title: Register
-#    url: /en/registration
-#  - title: S'Inscrire
-#    url: /fr/inscription
 
 en:
   - title: Organizing committee
     url: /en/organizing-committee
   - title: Contribute
     url: /en/call-for-contributions
+  - title: Register
+    url: /en/registration
   - title: Program
     url: /en/program
   - title: Hotels 
@@ -24,6 +22,8 @@ fr:
     url: /fr/comite-organisation
   - title: Contribuer
     url: /fr/appel-aux-contributions
+  - title: S'Inscrire
+    url: /fr/inscription
   - title: Programme
     url: /fr/programme
   - title: Hôtels
