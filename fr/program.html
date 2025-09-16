@@ -15,6 +15,19 @@ cover-img:
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Programme de l’événement – 9–10 octobre</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <style>
+  .callout {
+    display: flex; gap: 12px; align-items: flex-start;
+    margin: 20px 0; padding: 16px 18px; border-radius: 8px;
+    border: 1px solid #ffe08a; background: #fff3cd;
+    font: inherit; color: #333; line-height: 1.5;
+  }
+  .callout__icon { font-size: 1.25rem; line-height: 1.1; }
+  .callout__title { margin: 0 0 6px; font-weight: 600; color: #98243c; }
+  .callout__body { margin: 0; }
+  </style>
+
   <style>
     :root {
       --accent: #98243c;
@@ -122,10 +135,23 @@ cover-img:
   </style>
 </head>
 <body>
+
+<br>
+
+<div class="callout">
+  <div class="callout__icon">⚠️</div>
+  <div>
+    <p class="callout__title">Conference venue</p>
+    <p class="callout__body">
+      Tous les événements ont lieu au Centre de conférences de l'Université Concordia (1600 Blvd. De Maisonneuve Ouest) sauf indication contraire (noter : le souper-réception de la conférence a lieu ailleurs en fin de journée 1).
+    </p>
+  </div>
+</div>
+
+<br>
+
   <main class="schedule">
     <h5>Jour 1 – 9 octobre</h5>
-
-    <p>Tous les événements ont lieu au Centre de conférences de l'Université Concordia (1600 Blvd. De Maisonneuve Ouest) sauf indication contraire (noter : le souper-réception de la conférence a lieu ailleurs en fin de journée 1).</p>
 
     <table class="schedule-table">
       <tbody>
@@ -170,7 +196,7 @@ cover-img:
         </tr>
         <tr>
           <td class="time-cell">18:00 et après</td>
-          <td class="content-cell"><span class="social">🥂 Souper-réception de la conférence (McGill Faculty Club, 3450 McTavish Street)</span></td>
+          <td class="content-cell"><span class="social">🥂 Souper-réception de la conférence<br>(McGill Faculty Club, 3450 McTavish Street)</span></td>
         </tr>
       </tbody>
     </table>
