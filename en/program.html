@@ -17,10 +17,22 @@ cover-img:
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap" rel="stylesheet">
   
   <style>
-  .callout {
+  .callout_warning {
     display: flex; gap: 12px; align-items: flex-start;
     margin: 20px 0; padding: 16px 18px; border-radius: 8px;
     border: 1px solid #ffe08a; background: #fff3cd;
+    font: inherit; color: #333; line-height: 1.5;
+  }
+  .callout__icon { font-size: 1.25rem; line-height: 1.1; }
+  .callout__title { margin: 0 0 6px; font-weight: 600; color: #98243c; }
+  .callout__body { margin: 0; }
+</style>
+
+<style>
+  .callout_info {
+    display: flex; gap: 12px; align-items: flex-start;
+    margin: 20px 0; padding: 16px 18px; border-radius: 8px;
+    border: 1px solid #afe8da; background: #fff3cd;
     font: inherit; color: #333; line-height: 1.5;
   }
   .callout__icon { font-size: 1.25rem; line-height: 1.1; }
@@ -138,19 +150,19 @@ cover-img:
 
 <br>
 
-<div class="callout">
+<div class="callout_info">
   <div class="callout__icon">🔖</div>
   <div>
     <p class="callout__title">Detailed conference program</p>
     <p class="callout__body">
     The detailed conference program is now available! It includes all titles, locations, and schedules for talks, booths, and posters. If you are a presenting author, please review the program carefully to confirm when and where you will present. 
     <hr>
-    <a href="/assets/files/detailed_program_sep17.pdf">Download the complete program by clicking here</a>. 
+    <a href="/assets/files/detailed_program_sep17.pdf">Download the program by clicking here</a>. 
     </p>
   </div>
 </div>
 
-<div class="callout">
+<div class="callout_warning">
   <div class="callout__icon">⚠️</div>
   <div>
     <p class="callout__title">Conference venue</p>
