@@ -1,34 +1,48 @@
 # Order matters to ensure correct translation of the navigation bar.
 
 en:
-  - title: Organizing committee
-    url: /en/organizing-committee
-  - title: Contribute
-    url: /en/call-for-contributions
-  - title: Register
-    url: /en/registration
   - title: Program
     url: /en/program
+  - title: Presenters guide
+    children:
+      - title: Poster
+        url: /en/guide/poster
+      - title: Booth
+        url: /en/guide/booth
+      - title: Lightning talk
+        url: /en/guide/lightning-talk
+      - title: Panel
+        url: /en/guide/panel
   - title: Hotels 
     url: /en/hotels
   - title: Venue
     url: https://www.concordia.ca/hospitality/hospitality-venues/concordia-conference-centre.html
+  - title: Organizing committee
+    url: /en/organizing-committee
   - title: Contact
     url: mailto:open.scholarship@concordia.ca
 
 # L'ordre des titres est important pour assurer la traduction correcte de la barre de navigation.
 fr:
-  - title: Comité organisateur
-    url: /fr/comite-organisation
-  - title: Contribuer
-    url: /fr/appel-aux-contributions
-  - title: S'Inscrire
-    url: /fr/inscription
   - title: Programme
     url: /fr/programme
+  - title: Guide des conférenciers
+    children:
+      - title: Affiches
+        url: /fr/guide/affiche
+      - title: Kiosque
+        url: /fr/guide/kiosque
+      - title: Présentation éclair
+        url: /fr/guide/presentation-eclair
+      - title: Table ronde
+        url: /fr/guide/table-ronde
+  - title: Guide des conférenciers
+    url: /fr/guide-des-conferenciers
   - title: Hôtels
     url: /fr/hotels
-  - title: Emplacement
+  - title: Lieu
     url: https://www.concordia.ca/fr/hospitalite/salles/centre-de-conference.html
+  - title: Comité d'organisation
+    url: /fr/comite-organisation
   - title: Contact
     url: mailto:open.scholarship@concordia.ca
