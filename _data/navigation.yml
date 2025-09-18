@@ -13,6 +13,8 @@ en:
         url: /en/guide/lightning-talk
       - title: Panel
         url: /en/guide/panel
+      - title: Call for contributions
+        url: /en/call-for-contributions
   - title: Hotels 
     url: /en/hotels
   - title: Venue
@@ -36,6 +38,8 @@ fr:
         url: /fr/guide/presentation-eclair
       - title: Table ronde
         url: /fr/guide/table-ronde
+      - title: Appel aux contributions
+        url: /fr/appel-aux-contributions
   - title: Guide des conférenciers
     url: /fr/guide-des-conferenciers
   - title: Hôtels
