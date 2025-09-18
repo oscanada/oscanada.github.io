@@ -16,8 +16,8 @@ cover-img:
   <title>Programme de l’événement – 9–10 octobre</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap" rel="stylesheet">
   
-  <style>
-  .callout {
+<style>
+  .callout_warning {
     display: flex; gap: 12px; align-items: flex-start;
     margin: 20px 0; padding: 16px 18px; border-radius: 8px;
     border: 1px solid #ffe08a; background: #fff3cd;
@@ -26,7 +26,19 @@ cover-img:
   .callout__icon { font-size: 1.25rem; line-height: 1.1; }
   .callout__title { margin: 0 0 6px; font-weight: 600; color: #98243c; }
   .callout__body { margin: 0; }
-  </style>
+</style>
+
+<style>
+  .callout_info {
+    display: flex; gap: 12px; align-items: flex-start;
+    margin: 20px 0; padding: 16px 18px; border-radius: 8px;
+    border: 1px solid #92ddca; background: #c4e8df;
+    font: inherit; color: #333; line-height: 1.5;
+  }
+  .callout__icon { font-size: 1.25rem; line-height: 1.1; }
+  .callout__title { margin: 0 0 6px; font-weight: 600; color: #98243c; }
+  .callout__body { margin: 0; }
+</style>
 
   <style>
     :root {
@@ -139,6 +151,21 @@ cover-img:
 <br>
 
 <div class="callout">
+  <div class="callout__icon">🔖</div>
+  <div>
+    <p class="callout__title">Programme détaillé de la conférence</p>
+    <p class="callout__body">
+    Le programme détaillé de la conférence est maintenant disponible ! Vous y trouverez tous les titres, les lieux et les horaires des présentations, des kiosques et des posters. Si vous êtes un·e auteur·rice-présentateur·rice, veuillez consulter attentivement le programme pour confirmer la date et le lieu de votre présentation.
+    <hr>
+    <a href="/assets/files/detailed_program_sep17.pdf">Téléchargez le programme complet en cliquant ici</a>.
+    </p>
+  </div>
+</div>
+
+  <main class="schedule">
+    <h5>Jour 1 – 9 octobre</h5>
+
+<div class="callout">
   <div class="callout__icon">⚠️</div>
   <div>
     <p class="callout__title">Conference venue</p>
@@ -147,9 +174,6 @@ cover-img:
     </p>
   </div>
 </div>
-
-  <main class="schedule">
-    <h5>Jour 1 – 9 octobre</h5>
 
     <table class="schedule-table">
       <tbody>
