@@ -46,8 +46,8 @@ En raison du nombre élevé et du rythme rapide des présentations, les technici
 - Pour les présentations en ligne, incluez un document contenant le lien vers votre présentation.
 
 **Veuillez nommer votre fichier selon la convention suivante:**
-- **LT_[LettreSéance]_[VotreNomDeFamille]**
-- Par exemple, si vous êtes dans la séance D et que votre nom de famille est Smith, nommez votre fichier : LT_D_Smith
+- **PANEL_[LettreSéance]_[VotreNomDeFamille]**
+- Par exemple, si vous êtes dans la séance D et que votre nom de famille est Smith, nommez votre fichier : `PANEL_D_Smith`
 - Vous pouvez trouver la lettre de votre séance (A, B, C ou D) dans le programme détaillé.
 
 Au début de votre séance, veuillez vous rendre dans la salle indiquée dans le programme et vous asseoir à l’avant pour faciliter une transition rapide entre les présentateur·trice·s.

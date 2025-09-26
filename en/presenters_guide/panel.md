@@ -44,8 +44,8 @@ Due to the high number and fast pace of lightning talks, technicians need these 
 - For standard presentations (PPT) include your presentation file.
 - For online presentations, include a document with a link to your talk.
 - **Please name your file using the following convention:**
-  - **LT_[SessionLetter]_[YourLastName]**
-  - For example, if you are in session D and your last name is Smith, name your file: LT_D_Smith
+  - **PANEL_[SessionLetter]_[YourLastName]**
+  - For example, if you are in session D and your last name is Smith, name your file: `PANEL_D_Smith`
   - You can find your assigned session letter (A, B, C, or D) in the detailed program document.
 
 At the start of your lightning talk session, please go to the room listed in the program, and take a seat at the front. This will help ensure a smooth and quick transition between speakers.
