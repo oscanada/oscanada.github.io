@@ -5,6 +5,8 @@ lang: fr
 permalink: /fr/guide/presentation-eclair
 slug: guide-lightning-talk
 ---
+**Veuillez noter que la conférence est entièrement bilingue, et nous encourageons les présentations en anglais ou en français.**
+
 Nous sommes ravis de vous accueillir en tant que présentateur·trice à la 1re Conférence canadienne sur la science ouverte et les savoirs ouverts. Veuillez prendre un moment pour lire attentivement ce guide, car il contient des informations importantes qui vous aideront à préparer efficacement votre présentation éclair et à assurer une installation fluide le jour de l’événement. Si vous avez des questions ou des préoccupations, n’hésitez pas à nous contacter à l’adresse suivante : <open.scholarship@concordia.ca>
 
 ## Horaire

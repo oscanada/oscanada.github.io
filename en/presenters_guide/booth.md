@@ -5,6 +5,8 @@ lang: en
 permalink: /en/guide/booth
 slug: guide-booth
 ---
+**Note that the conference is fully bilingual, and we encourage presentations in either English or French**
+
 We are excited to have you join the 1st Canadian Conference on Open Science and Open Scholarship as a presenter. Please take a moment to read through the following guide carefully, as it contains important information that will help you prepare your booth effectively and ensure a smooth setup on the day of the event. If you have any questions or concerns, please do not hesitate to contact us at <open.scholarship@concordia.ca>
 
 ## Schedule

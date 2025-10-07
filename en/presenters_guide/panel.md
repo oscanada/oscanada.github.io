@@ -5,6 +5,8 @@ lang: en
 permalink: /en/guide/panel
 slug: guide-panel
 ---
+**Note that the conference is fully bilingual, and we encourage presentations in either English or French**
+
 We are excited to have you join the 1st Canadian Conference on Open Science and Open Scholarship as a presenter. Please take a moment to read through the following guide carefully, as it contains important information that will help you prepare your talk effectively and ensure a smooth setup on the day of the event. If you have any questions or concerns, please do not hesitate to contact us at <open.scholarship@concordia.ca>
 
 ## Schedule
@@ -44,8 +46,8 @@ Due to the high number and fast pace of lightning talks, technicians need these 
 - For standard presentations (PPT) include your presentation file.
 - For online presentations, include a document with a link to your talk.
 - **Please name your file using the following convention:**
-  - **LT_[SessionLetter]_[YourLastName]**
-  - For example, if you are in session D and your last name is Smith, name your file: LT_D_Smith
+  - **PANEL_[SessionLetter]_[YourLastName]**
+  - For example, if you are in session D and your last name is Smith, name your file: `PANEL_D_Smith`
   - You can find your assigned session letter (A, B, C, or D) in the detailed program document.
 
 At the start of your lightning talk session, please go to the room listed in the program, and take a seat at the front. This will help ensure a smooth and quick transition between speakers.
