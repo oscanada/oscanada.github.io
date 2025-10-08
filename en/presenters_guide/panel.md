@@ -11,7 +11,7 @@ We are excited to have you join the 1st Canadian Conference on Open Science and 
 
 ## Schedule
 
-**Check the [detailed program](/assets/files/detailed_program_sep17.pdf) for your presentation or discussion panel session**
+**Check the [detailed program](/assets/files/detailed_program.pdf) for your presentation or discussion panel session**
 
 ## Length
 

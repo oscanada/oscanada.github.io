@@ -11,7 +11,7 @@ Nous sommes ravis de vous accueillir en tant que présentateur·trice à la 1re 
 
 ## Horaire
 
-**Consultez le [programme détaillé](/assets/files/detailed_program_sep17.pdf) pour connaître votre séance d’affichage.**
+**Consultez le [programme détaillé](/assets/files/detailed_program.pdf) pour connaître votre séance d’affichage.**
 
 ## Durée
 
