@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+baseurl: "/2025"
+url: "https://oscanada.github.io"
+
 # Name of website
 title: 
   en: 1st Canadian Conference on Open Science and Open Scholarship
