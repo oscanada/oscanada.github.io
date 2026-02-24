@@ -1,0 +1,29 @@
+---
+layout: none
+permalink: /
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting...</title>
+  <script>
+    // List of supported languages (must match site config)
+    const supportedLangs = {{ site.languages | jsonify }}; // Update this list as needed
+    const defaultLang = 'en';
+
+    const browserLang = navigator.language || navigator.userLanguage;
+    const langPrefix = browserLang.split('-')[0];
+
+    const redirectLang = supportedLangs.includes(langPrefix) ? langPrefix : defaultLang;
+    window.location.replace(`/${redirectLang}/`);
+  </script>
+</head>
+
+<body>
+  <p>If you are not redirected automatically, <a href="/en/">click here</a>.</p>
+</body>
+
+</html>
