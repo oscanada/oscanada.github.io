@@ -2,8 +2,8 @@
 layout: page
 title: Organizing committee
 lang: en
-permalink: /en/organizing-committee/
-slug: organizing-committee
+permalink: 2025/en/organizing-committee/
+slug: 2025-organizing-committee
 ---
 
 ## Lead organizers
